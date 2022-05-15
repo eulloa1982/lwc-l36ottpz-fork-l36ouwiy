@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/eulloa1982.lwc-l36ottpz-fork-l36ouwiy",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 2nf2I7PM5vi9niqwDs9H --open"
+  }
+}
